@@ -376,11 +376,11 @@ address { font-style: normal; }
 .work__item figcaption { margin-top: 12px; font-size: 0.875rem; letter-spacing: 0.02em; color: var(--olive-80); }
 .work__img { width: 100%; border-radius: 4px; background: var(--stone); }
 .work__hair { grid-column: 1 / -1; }
-.hair { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 8px; }
+.hair { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; }
 .hair img { width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 3px; background: var(--stone); }
 @media (min-width: 640px) {
   .work__grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .hair { grid-template-columns: repeat(7, minmax(0, 197px)); gap: 12px; }
+  .hair { grid-template-columns: repeat(5, minmax(0, 197px)); gap: 12px; }
 }
 @media (min-width: 1024px) {
   .section-head--split { display: grid; grid-template-columns: repeat(12, minmax(0, 1fr)); column-gap: var(--gutter); align-items: end; }

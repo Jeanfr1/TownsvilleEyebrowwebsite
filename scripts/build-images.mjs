@@ -25,7 +25,8 @@ const jobs = [
   { name: 'real-brow-threading', file: src('real-brow-threading.jpg'), widths: [480, 992] },
   { name: 'real-brow-tint', file: src('real-brow-tint.jpg'), widths: [480, 1000] },
   { name: 'real-henna', file: src('real-henna.jpg'), widths: [480, 948] },
-  ...[1, 2, 3, 4, 5, 6, 7].map((i) => ({ name: `real-hair-${i}`, file: src(`real-hair-${i}.jpg`), widths: [197] })),
+  // hair 4 and 5 left out on request (before-service photos)
+  ...[1, 2, 3, 6, 7].map((i) => ({ name: `real-hair-${i}`, file: src(`real-hair-${i}.jpg`), widths: [197] })),
   // identity
   { name: 'logo-olive', file: src('logo-olive.png'), widths: [720], alpha: true, png: true },
   { name: 'logo-ivory', file: src('logo-ivory.png'), widths: [720], alpha: true, png: true },
