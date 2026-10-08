@@ -199,7 +199,7 @@ TownsvilleEyebrowwebsite/
 │   ├── prepare-sources.py        # OpenCV: logo cleanup, wall plate inpainting, real-work crops
 │   └── build-images.mjs          # sharp: responsive AVIF / WebP, favicon, Open Graph image
 ├── assets-src/                   # Masters derived from the kit
-└── townsville-a-finer-line/      # The creative kit (brief, scripts, mockups, layers); not deployed
+└── townsville-a-finer-line/      # The creative kit (brief, scripts, mockups, layers); not deployed, reference screenshots kept local
 ```
 
 <br />

@@ -5,3 +5,6 @@ dist
 .venv
 *.log
 .claude
+
+# business screenshots from the kit: kept locally, never published
+townsville-a-finer-line/00-referencias/
