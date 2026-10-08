@@ -19,8 +19,6 @@
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <meta name="twitter:card" content="summary_large_image">
-  <link rel="preload" as="image" type="image/avif" imagesrcset="/img/portrait-alpha-960.avif 960w, /img/portrait-alpha-1440.avif 1440w, /img/portrait-alpha-1672.avif 1672w" imagesizes="100vw" media="(min-width: 1024px)">
-  <link rel="preload" as="image" type="image/avif" imagesrcset="/img/portrait-tall-480.avif 480w, /img/portrait-tall-720.avif 720w, /img/portrait-tall-941.avif 941w" imagesizes="90vw" media="(max-width: 1023px)">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -98,9 +96,10 @@
               <svg class="hero__loop" data-layer="loop" viewBox="0 0 1672 941" preserveAspectRatio="xMidYMid slice" aria-hidden="true" focusable="false">
                 <path d="M640 -20 C 610 120, 760 420, 980 560 C 1120 650, 1330 690, 1500 600 C 1640 520, 1700 430, 1720 380" pathLength="1"/>
               </svg>
-              <x-pic name="portrait-alpha" mobile="portrait-tall" mobile-sizes="(max-width: 1023px) 90vw" alt="Editorial beauty portrait of a woman with natural, defined brows, against a sunlit limestone wall" class="hero__alpha" sizes="100vw" loading="eager" fetchpriority="high" data-layer="alpha">
+              <x-pic name="portrait-alpha" mobile="portrait-tall" mobile-sizes="(max-width: 1023px) 90vw" alt="Editorial beauty portrait of a woman with natural, defined brows, against a sunlit limestone wall" class="hero__alpha" sizes="100vw" loading="eager" data-layer="alpha">
             </div>
-            <x-pic name="macro" alt="" class="hero__macro" sizes="(min-width: 1024px) 40vw, 90vw" loading="eager" data-layer="macro">
+            <!-- the macro is the first image the film shows (static mode hides it and shows the portrait) -->
+            <x-pic name="macro" alt="" class="hero__macro" sizes="(min-width: 1024px) 40vw, 90vw" loading="eager" fetchpriority="high" data-layer="macro">
           </div>
           <svg class="hero__frame" data-hero-frame aria-hidden="true" focusable="false"><path data-frame-path pathLength="1"/></svg>
           <div class="hero__copy" data-hero-copy>
