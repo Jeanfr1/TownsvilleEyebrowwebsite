@@ -1,0 +1,199 @@
+{
+  "portrait": {
+    "width": 1672,
+    "height": 941,
+    "widths": [
+      960,
+      1440,
+      1672
+    ],
+    "alpha": false,
+    "png": false
+  },
+  "portrait-plate": {
+    "width": 1672,
+    "height": 941,
+    "widths": [
+      960,
+      1440,
+      1672
+    ],
+    "alpha": false,
+    "png": false
+  },
+  "portrait-alpha": {
+    "width": 1672,
+    "height": 941,
+    "widths": [
+      960,
+      1440,
+      1672
+    ],
+    "alpha": true,
+    "png": false
+  },
+  "portrait-tall": {
+    "width": 941,
+    "height": 1672,
+    "widths": [
+      480,
+      720,
+      941
+    ],
+    "alpha": false,
+    "png": false
+  },
+  "macro": {
+    "width": 1536,
+    "height": 1024,
+    "widths": [
+      640,
+      1024,
+      1536
+    ],
+    "alpha": false,
+    "png": false
+  },
+  "wax": {
+    "width": 1536,
+    "height": 1024,
+    "widths": [
+      640,
+      1024,
+      1536
+    ],
+    "alpha": false,
+    "png": false
+  },
+  "detail": {
+    "width": 1536,
+    "height": 1024,
+    "widths": [
+      640,
+      1024,
+      1536
+    ],
+    "alpha": false,
+    "png": false
+  },
+  "real-brow-threading": {
+    "width": 992,
+    "height": 996,
+    "widths": [
+      480,
+      992
+    ],
+    "alpha": false,
+    "png": false
+  },
+  "real-brow-tint": {
+    "width": 1000,
+    "height": 957,
+    "widths": [
+      480,
+      1000
+    ],
+    "alpha": false,
+    "png": false
+  },
+  "real-henna": {
+    "width": 948,
+    "height": 944,
+    "widths": [
+      480,
+      948
+    ],
+    "alpha": false,
+    "png": false
+  },
+  "real-hair-1": {
+    "width": 197,
+    "height": 197,
+    "widths": [
+      197
+    ],
+    "alpha": false,
+    "png": false
+  },
+  "real-hair-2": {
+    "width": 198,
+    "height": 197,
+    "widths": [
+      197
+    ],
+    "alpha": false,
+    "png": false
+  },
+  "real-hair-3": {
+    "width": 197,
+    "height": 197,
+    "widths": [
+      197
+    ],
+    "alpha": false,
+    "png": false
+  },
+  "real-hair-4": {
+    "width": 197,
+    "height": 198,
+    "widths": [
+      197
+    ],
+    "alpha": false,
+    "png": false
+  },
+  "real-hair-5": {
+    "width": 198,
+    "height": 198,
+    "widths": [
+      197
+    ],
+    "alpha": false,
+    "png": false
+  },
+  "real-hair-6": {
+    "width": 198,
+    "height": 197,
+    "widths": [
+      197
+    ],
+    "alpha": false,
+    "png": false
+  },
+  "real-hair-7": {
+    "width": 197,
+    "height": 197,
+    "widths": [
+      197
+    ],
+    "alpha": false,
+    "png": false
+  },
+  "logo-olive": {
+    "width": 2130,
+    "height": 432,
+    "widths": [
+      720
+    ],
+    "alpha": true,
+    "png": true
+  },
+  "logo-ivory": {
+    "width": 2111,
+    "height": 434,
+    "widths": [
+      720
+    ],
+    "alpha": true,
+    "png": true
+  },
+  "wordmark-olive": {
+    "width": 2126,
+    "height": 384,
+    "widths": [
+      480
+    ],
+    "alpha": true,
+    "png": true
+  }
+}

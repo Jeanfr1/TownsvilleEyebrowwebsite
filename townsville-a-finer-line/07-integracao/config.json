@@ -1,0 +1,20 @@
+{
+  "business_name": "Townsville Eyebrow Threading & Waxing",
+  "concept": "A finer line.",
+  "phone_display": "+61 457 082 418",
+  "phone_href": "tel:+61457082418",
+  "whatsapp_href": "https://wa.me/61457082418",
+  "address": "8 Summerset Drive, Mount Louisa, Townsville QLD 4814, Australia",
+  "directions_href": "https://www.google.com/maps/search/?api=1&query=8%20Summerset%20Drive%20Mount%20Louisa%20QLD%204814",
+  "reservation_mode": "enquiry_only",
+  "hours_from_screenshot": "09:00–18:00 Monday–Sunday; reconfirm before publishing",
+  "palette": {
+    "ivory": "#F3EFE5",
+    "olive": "#293D31",
+    "sage": "#A9AF95",
+    "champagne": "#B7A079",
+    "ink": "#242B25"
+  },
+  "source_type": "user-supplied screenshots",
+  "review_claim": null
+}

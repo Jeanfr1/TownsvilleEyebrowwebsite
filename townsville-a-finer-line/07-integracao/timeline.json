@@ -1,0 +1,32 @@
+{
+  "desktop_scroll_svh": 220,
+  "mobile_scroll_svh": 150,
+  "phases": [
+    {
+      "from": 0,
+      "to": 0.16,
+      "scene": "thread"
+    },
+    {
+      "from": 0.16,
+      "to": 0.4,
+      "scene": "gaze"
+    },
+    {
+      "from": 0.4,
+      "to": 0.62,
+      "scene": "portrait"
+    },
+    {
+      "from": 0.62,
+      "to": 0.86,
+      "scene": "panels"
+    },
+    {
+      "from": 0.86,
+      "to": 1,
+      "scene": "handoff"
+    }
+  ],
+  "reduced_motion": "static"
+}

@@ -1,0 +1,95 @@
+[
+  {
+    "file": "01-identidade/identity-board.png",
+    "width": 1800,
+    "height": 1100,
+    "mode": "RGB",
+    "alpha": null
+  },
+  {
+    "file": "01-identidade/logo-ivory-alpha.png",
+    "width": 2172,
+    "height": 724,
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  {
+    "file": "01-identidade/logo-olive-alpha.png",
+    "width": 2172,
+    "height": 724,
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ]
+  },
+  {
+    "file": "02-direcao/direction-desktop.png",
+    "width": 1024,
+    "height": 1536,
+    "mode": "RGB",
+    "alpha": null
+  },
+  {
+    "file": "02-direcao/direction-mobile.png",
+    "width": 821,
+    "height": 1916,
+    "mode": "RGB",
+    "alpha": null
+  },
+  {
+    "file": "02-direcao/storyboard.png",
+    "width": 1800,
+    "height": 1260,
+    "mode": "RGB",
+    "alpha": null
+  },
+  {
+    "file": "03-hero/hero-portrait-desktop.png",
+    "width": 1672,
+    "height": 941,
+    "mode": "RGB",
+    "alpha": null
+  },
+  {
+    "file": "03-hero/hero-portrait-mobile.png",
+    "width": 941,
+    "height": 1672,
+    "mode": "RGB",
+    "alpha": null
+  },
+  {
+    "file": "03-hero/macro-brow-thread.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB",
+    "alpha": null
+  },
+  {
+    "file": "04-servicos/brow-lash-detail.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB",
+    "alpha": null
+  },
+  {
+    "file": "04-servicos/wax-ritual.png",
+    "width": 1536,
+    "height": 1024,
+    "mode": "RGB",
+    "alpha": null
+  },
+  {
+    "file": "05-camadas/portrait-alpha.png",
+    "width": 1672,
+    "height": 941,
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ]
+  }
+]
